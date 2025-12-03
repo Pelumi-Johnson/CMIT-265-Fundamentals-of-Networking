@@ -17,4 +17,4 @@ Built a secure IPSec Site-to-Site VPN between an on-premises network and AWS usi
 
 ---
 
-🔙 **Return to UMGC Academic Projects:** [click](https://github.com/Pelumi-Johnson/Cloud-Infrastructure-Projects/tree/main)
+🔙 **Return to UMGC Academic Projects:** [Click](https://github.com/Pelumi-Johnson/Cloud-Infrastructure-Projects/tree/main)
