@@ -10,9 +10,10 @@ Built a secure IPSec Site-to-Site VPN between an on-premises network and AWS usi
 
 👉 [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Creating-a-Site-to-Site-VPN-on-AWS/tree/main?tab=readme-ov-file)
 ![VPN Badge](https://img.shields.io/badge/VPN-IPSec-blue?style=flat-square)
+
 ---
 
-### 📁 More Networking Projects Coming Soon
+### 🚧 More Networking Projects Coming Soon
 
 ---
 
