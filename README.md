@@ -1,4 +1,4 @@
-# CMIT 265 – Fundamentals of Networking
+# CMIT 265 | Fundamentals of Networking
 ![Networking Badge](https://img.shields.io/badge/Networking-Routing%20%7C%20Switching-green?style=for-the-badge)
 
 Networking course focused on IP addressing, subnetting, routing, switching, and secure connectivity.
