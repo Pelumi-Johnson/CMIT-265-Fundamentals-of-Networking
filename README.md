@@ -8,13 +8,9 @@ Networking course focused on IP addressing, subnetting, routing, switching, and 
 ## 🌐 AWS Site-to-Site VPN Configuration Project (UMGC – CMIT 265)
 Built a secure IPSec Site-to-Site VPN between an on-premises network and AWS using Virtual Private Gateways and Customer Gateways.  
 
-👉 [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Creating-a-Site-to-Site-VPN-on-AWS/tree/main?tab=readme-ov-file)
-![VPN Badge](https://img.shields.io/badge/VPN-IPSec-blue?style=flat-square)
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Creating-a-Site-to-Site-VPN-on-AWS/tree/main?tab=readme-ov-file)
+
 
 ---
 
-### 🚧 More Networking Projects Coming Soon
 
----
-
-🔙 **Return to UMGC Academic Projects:** [Click](https://github.com/Pelumi-Johnson/Cloud-Infrastructure-Projects/tree/main)
